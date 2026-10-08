@@ -23,3 +23,7 @@ Advisories and proof-of-concept code live in [`spiizn/cves`](https://github.com/
 | EC2 2026 | 2nd |
 | HTB University 2025 | 3rd |
 | TRACS 2025 | 8th |
+
+### Elsewhere
+
+[Blog](https://blog.spiizn.xyz/) · [LinkedIn](https://www.linkedin.com/in/levan-martin/) · [YesWeHack](https://yeswehack.com/hunters/SpiizN) · [Root-Me](https://www.root-me.org/SpiizN) · [Hack The Box](https://app.hackthebox.com/users/1484032)
